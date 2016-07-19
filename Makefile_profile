@@ -1,0 +1,3 @@
+SHELL=$(CURDIR)/shared/utils/makefile_profiler.sh $(CURDIR)/profile_data bash
+
+include Makefile
